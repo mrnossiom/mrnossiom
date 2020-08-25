@@ -1,13 +1,21 @@
-### Hi there 👋
+### Salut 👋
 
-# Projects
-- 🔭 I’m currently working on a bot project...
-- 🌱 I’m currently learning JS and TS...
-- 🤔 I’m looking for help with TypeScript...
+# Bio
+- J'ai 14 ans et je suis Français
 
-# Collabs
-- 👯 I’m looking to collaborate for a JavaScript project for a discord bot...
+# Languages
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Contact
-- 📫 How to reach me: milomoisson@gmail.com
-- Discord: 「Mr_Nossiom」#4596
+# En ce momment
+- Je suis actuellement sur un projet de Bot Discord...
+- J'apprend le JavaScript...
+
+# 👯 Collaborations
+- Si vous etes intéréssés par une collaboration pour le bot discord, mes contacts sont juste en dessous...
+
+# 📫 Contact
+- ![GMAIL](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:milomoisson@gmail.com): milomoisson@gmail.com
+- ![DISCORD](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com): 「Mr_Nossiom」#4596
