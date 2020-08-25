@@ -1,6 +1,6 @@
-### Salut 👋
+## Salut 👋
 
-# Bio
+# Moi
 - J'ai 14 ans et je suis Français
 
 # Languages
@@ -19,3 +19,8 @@
 # 📫 Contact
 - ![GMAIL](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:milomoisson@gmail.com): milomoisson@gmail.com
 - ![DISCORD](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com): 「Mr_Nossiom」#4596
+
+# Activité GitHub
+[![MrNossiom's stats](https://github-readme-stats.vercel.app/api?username=MrNossiom&count_private=true)](https://github.com/MrNossiom)
+
+[![MrNossiom's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNossiom&layout=compact)](https://github.com/MrNossiom)
