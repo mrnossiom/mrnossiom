@@ -17,8 +17,8 @@
 - Si vous etes intéréssés par une collaboration pour le bot discord, mes contacts sont juste en dessous...
 
 # 📫 Contact
-- ![GMAIL](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:milomoisson@gmail.com): milomoisson@gmail.com
-- ![DISCORD](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com): 「Mr_Nossiom」#4596
+- [![GMAIL](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milomoisson@gmail.com): milomoisson@gmail.com
+- [![DISCORD](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com): 「Mr_Nossiom」#4596
 
 # Activité GitHub
 [![MrNossiom's stats](https://github-readme-stats.vercel.app/api?username=MrNossiom&count_private=true)](https://github.com/MrNossiom)
