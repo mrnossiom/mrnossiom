@@ -1,32 +1,18 @@
 ## Salut 👋
 
-# Moi
-- J'ai 14 ans et je suis Français.
-- Mon IDE: ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+#### Moi ![MrNossiom's Followers](https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social)
 
-# Connaisances
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-f4f6f7?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+J'ai 15 ans et je suis Français. J'utilise ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code). Mon language de prédilection est le ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white). Je fais actuellement du développement web à l'aide de ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react) et ![NextJS](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js). Je stylise mes projets avec ![ChakraUI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white) ou ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white). Je sais utiliser des base de données comme ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ou des backend serverless comme ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white). J'utilise ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white) comme navigateur principal.
 
-![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-363636?style=for-the-badge&logo=styled-components)
+#### En ce moment
 
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+-   Je développe un portfolio avec React et NextJS.
 
-# En ce momment
-- J'apprend le React...
-- Cherche a faire une adaptation de l'extention [Discord Send Code to Webhook](https://atom.io/packages/discord-send-code-to-webhook) disponible sur Atom.
+### 📫 Contact
 
-# 👯 Collaborations
-- Si vous avez un idée de collaboration avec moi, mes contacts sont juste en dessous.
+-   [![GMAIL](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milomoisson@gmail.com): milomoisson@gmail.com
+-   [![DISCORD](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com): `「Mr_Nossiom」#4596`
 
-# 📫 Contact
-- [![GMAIL](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milomoisson@gmail.com): milomoisson@gmail.com
-- [![DISCORD](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com): 「Mr_Nossiom」#4596
+#### Activité GitHub
 
-# Activité GitHub
-[![MrNossiom's stats](https://github-readme-stats.vercel.app/api?username=MrNossiom&count_private=true)](https://github.com/MrNossiom)
-
-[![MrNossiom's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNossiom&layout=compact)](https://github.com/MrNossiom)
+[![MrNossiom's stats](https://github-readme-stats.vercel.app/api?username=MrNossiom&count_private=true)](https://github.com/MrNossiom) [![MrNossiom's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrNossiom&layout=compact)](https://github.com/MrNossiom)
