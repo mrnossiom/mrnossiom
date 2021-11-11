@@ -54,8 +54,8 @@ jobs:
           plugin_sponsors: false
           plugin_sponsors_sections: goal, about
 
-          # Spotify tracking (disabled)
-          plugin_music: false
+          # Spotify tracking
+          plugin_music: true
           plugin_music_provider: spotify
           plugin_music_mode: top
           plugin_music_top_type: tracks
