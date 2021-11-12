@@ -19,7 +19,7 @@ jobs:
           plugin_languages: true
           plugin_languages_threshold: 2%
           plugin_languages_details: percentage
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: most-used,recently-used
 
           # Shows recent activity
           plugin_activity: true
@@ -41,7 +41,7 @@ jobs:
           plugin_code: true
           plugin_code_lines: 12
           plugin_code_load: 100
-          plugin_code_visibility: private,public
+          plugin_code_visibility: all
 
           # WakaTime tracking
           plugin_wakatime: true
