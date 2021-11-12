@@ -10,11 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@v3.15
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugins_errors_fatal: true
 
           # Show stats on recent languages I used
           plugin_languages: true

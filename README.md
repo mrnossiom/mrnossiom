@@ -6,4 +6,4 @@ J'ai 15 ans et je suis Français. J'utilise ![VSCode](https://img.shields.io/bad
 
 [milomoisson@gmail.com](mailto:milomoisson@gmail.com) | `「Mr_Nossiom」#4596`
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/MrNossiom/MrNossiom/blob/master/github-metrics.svg)
