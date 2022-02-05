@@ -10,24 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lowlighter/metrics@v3.15
+
+      - name: Generate bio metrics
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: bio-metrics.svg
+          config_timezone: Europe/Paris
 
-          # Show stats on recent languages I used
-          plugin_languages: true
-          plugin_languages_threshold: 2%
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used,recently-used
+          base: header, activity, community, repositories, metadata
 
-          # Shows recent activity
-          plugin_activity: true
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: all
+      - name: Generate code metrics
+        uses: lowlighter/metrics@v3.19
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: code-metrics.svg
+          config_order: notable, stars, wakatime, code
+          config_timezone: Europe/Paris
 
-          # Show stats on recent projects I contributed to
+          # Show stats on large projects I contributed to
           plugin_notable: true
           plugin_notable_filter: stars:>500
           plugin_notable_repositories: true
@@ -37,21 +40,31 @@ jobs:
           plugin_stars: true
           plugin_stars_limit: 3
 
-          # Display a snippet of random code I wrote
-          plugin_code: true
-          plugin_code_lines: 12
-          plugin_code_load: 100
-          plugin_code_visibility: all
-
           # WakaTime tracking
           plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 4
 
-          # Display sponsors (displayed)
-          plugin_sponsors: false
-          plugin_sponsors_sections: goal, about
+          # Display a snippet of random code I wrote
+          plugin_code: true
+          plugin_code_lines: 20
+          plugin_code_load: 400
+          plugin_code_languages: javascript, typescript
+
+      - name: Generate social metrics
+        uses: lowlighter/metrics@v3.19
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: social-metrics.svg
+          config_order: discussions, stargazers, music, topics, people, sponsors
+
+          # Display discussion (issues, PRs)
+          plugin_discussions: true
+
+          # Stargazers graph
+          plugin_stargazers: true
 
           # Spotify tracking
           plugin_music: true
@@ -62,3 +75,20 @@ jobs:
           plugin_music_limit: 4
           plugin_music_token: '${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}'
           plugin_music_played_at: true
+
+          # Display follow topics in GitHub
+          plugin_topics: true
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+          # Display followers
+          plugin_people: true
+          plugin_people_types: sponsors, followers
+          plugin_people_shuffle: true
+
+          # Display sponsors (hidden)
+          plugin_sponsors: false
+          plugin_sponsors_sections: goal, about
+
+ 
+
