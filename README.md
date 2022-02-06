@@ -1,13 +1,12 @@
 ## Hi 👋
 
-#### Me <img class="stack-logo" alt="GitHub follow button" src="https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social"> <img class="stack-logo" alt="Twitter follow button" src="https://img.shields.io/twitter/follow/milo_moisson?label=Follow&style=social"> <a src="https://discord.gg/GrbpRNza5j"><img class="stack-logo" alt="Discord join button" src="https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord"></a>
-
-#### Bio :
+### Me <img class="stack-logo" alt="GitHub follow button" src="https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social"> <img class="stack-logo" alt="Twitter follow button" src="https://img.shields.io/twitter/follow/milo_moisson?label=Follow&style=social"> <a src="https://discord.gg/GrbpRNza5j"><img class="stack-logo" alt="Discord join button" src="https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord"></a>
 
 I'm 16 years old and I'm french. I live near Paris.
+
 [Mail](mailto:milomoisson@gmail.com) or `「Mr_Nossiom」#8542`
 
-#### Stack / Tools I use :
+### Stack / Tools I use :
 
 -   **Code** : <img class="stack-logo" alt="VSCode Logo" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code">
 -   **Browsing** : <img class="stack-logo" alt="Firefox Logo" src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white">
