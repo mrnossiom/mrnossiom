@@ -11,23 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate bio metrics
-        uses: lowlighter/metrics@v3.19
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/bio.svg
-          config_timezone: Europe/Paris
-
-          base: header, activity, community, repositories, metadata
-
       - name: Generate code metrics
         uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/code.svg
-          config_order: notable, stars, wakatime, code
+          filename: metrics.svg
+          config_order: notable, stars, wakatime, code, discussions, stargazers, music, topics, people, sponsors
           config_timezone: Europe/Paris
 
           # Show stats on large projects I contributed to
@@ -51,14 +41,6 @@ jobs:
           plugin_code_lines: 20
           plugin_code_load: 400
           plugin_code_languages: javascript, typescript
-
-      - name: Generate social metrics
-        uses: lowlighter/metrics@v3.19
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/socials.svg
-          config_order: discussions, stargazers, music, topics, people, sponsors
 
           # Display discussion (issues, PRs)
           plugin_discussions: true
