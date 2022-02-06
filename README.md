@@ -1,20 +1,4 @@
-<style>
-.stack-logo {
-	height: 1.5rem;
-	position: relative;
-	top: 0.3rem;
-	margin: 0 0.3rem;
-}
-
-.generated-metrics {
-	width: 50%
-}
-</style>
-
-## Hi 👋
-
-<img alt="Bio Metrics" src="https://github.com/MrNossiom/MrNossiom/blob/master/bio-metrics.svg">
-
+##
 #### Me <img class="stack-logo" alt="GitHub follow button" src="https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social"> <img class="stack-logo" alt="Twitter follow button" src="https://img.shields.io/twitter/follow/milo_moisson?label=Follow&style=social">
 
 #### Bio :
@@ -35,5 +19,4 @@ I'm 16 years old and I'm french. I live near Paris.
 
 [Contact me](mailto:milomoisson@gmail.com) | `「Mr_Nossiom」#8542`
 
-<img class="generated-metrics" alt="Code Metrics" src="https://github.com/MrNossiom/MrNossiom/blob/master/code-metrics.svg">
-<img class="generated-metrics" alt="Socials Metrics" src="https://github.com/MrNossiom/MrNossiom/blob/master/code-metrics.svg">
+<img alt="Metrics" src="https://github.com/MrNossiom/MrNossiom/blob/master/bottom-metrics.svg">
