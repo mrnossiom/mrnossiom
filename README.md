@@ -1,6 +1,6 @@
 ## Hi 👋
 
-### Me [![GitHub follow button](https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social)](https://github.com/MrNossiom) [![Twitter follow button](https://img.shields.io/twitter/follow/milo_moisson?label=Follow&style=social)](https://twitter.com/milo_moisson) [![Discord join button](https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord)](https://discord.gg/GrbpRNza5j)
+### Me [![GitHub follow button](https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social)](https://github.com/MrNossiom) [![Twitter follow button](https://img.shields.io/twitter/follow/milomoisson?label=Follow&style=social)](https://twitter.com/milo_moisson) [![Discord join button](https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord)](https://discord.gg/GrbpRNza5j)
 
 I'm 16 years old and I'm french. I live near Paris.
 
