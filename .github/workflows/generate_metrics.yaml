@@ -40,7 +40,7 @@ jobs:
           plugin_code: true
           plugin_code_lines: 20
           plugin_code_load: 400
-          plugin_code_languages: javascript, typescript
+          plugin_code_languages: rust, typescript
 
           # Display discussion (issues, PRs)
           plugin_discussions: true
