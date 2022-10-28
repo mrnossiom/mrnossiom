@@ -16,4 +16,4 @@ I'm 16 years old and I'm french. I live near Paris.
 -   **Styling** : <img class="stack-logo" alt="ChakraUI Logo" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white"> / <img class="stack-logo" alt="Emotion Logo" src="https://img.shields.io/badge/-Emotion-DB7093?style=flat-square">.
 -   **Database** : <img class="stack-logo" alt="Emotion Logo" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"> with <img class="stack-logo" alt="PostgreSQL Logo" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> / <img class="stack-logo" alt="Supabase Logo" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white">.
 
-<img alt="Metrics" style="width:80%;" src="https://github.com/MrNossiom/MrNossiom/blob/master/metrics.svg">
+<img alt="Metrics" style="width:80%;" src="https://gist.github.com/MrNossiom/a6a60000aa7170b2ea668e138dabc107/raw/metrics.svg">
