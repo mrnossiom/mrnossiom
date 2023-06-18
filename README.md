@@ -6,7 +6,7 @@ I'm 17 years old french student that live near Paris. I started programming at 1
 
 I love Open Source :heart: and try to contribute as much as I can.
 
-Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.shields.io/badge/-Discord-FFF?style=flat-square&logo=Discord) : `「Mr_Nossiom」#8542`
+Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.shields.io/badge/-Discord-FFF?style=flat-square&logo=Discord) (`@mrnossiom`)
 
 ### Stack / Tools
 
