@@ -2,7 +2,7 @@
 
 ### Me [![GitHub follow button](https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social)](https://github.com/MrNossiom) [![Twitter follow button](https://img.shields.io/twitter/follow/milomoisson)](https://twitter.com/milomoisson) [![Mastodon follow button](https://img.shields.io/mastodon/follow/109537015030439860?domain=https%3A%2F%2Ffosstodon.org)](https://elk.zone/fosstodon.org/@milomoisson) [![Discord join button](https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord)](https://discord.gg/GrbpRNza5j)
 
-I'm 17 years old french student that live near Paris. I started programming at 10 with one wonderful book: "Javascript pour les kids" (Eyrolles). I did a lot of web developement, done a discord bot in JavaScript (that I later rewrote in TypeScript for type safety and more fun). I discovered Rust two years ago and think this is the most elegant system programing we have for now.
+I'm a seventeen years old French student that lives next to Paris. I started programming at ten with a wonderful book: _Javascript for kids_ (Eyrolles). I did a lot of web development, done a discord bot in JavaScript (that I later rewrote in TypeScript for type safety and more fun). I discovered Rust two years ago and think this is the most elegant system programming language we have until now.
 
 I love Open Source :heart: and try to contribute as much as I can.
 
@@ -25,18 +25,21 @@ Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.
     Check for unsaved or uncommitted changes on your machine.
 
 -   **pgpaste** (WIP) in _Rust_ [[GitHub](https://github.com/MrNossiom/pgpaste/)]
+
     A set of tools (server, terminal client, library, and soon web client) to share text and media over the net like pastebin.com. The whole process uses OpenPGP to sign or encrypt your data. With features like expiration, burn after reading, link shortening, and more.
 
 -   **embedded-car** (WIP) in _Rust_ [[GitHub](https://github.com/MrNossiom/embedded-car)]
-    A duo of crates with a core to control a `Blue Pill` (microcontroller) linked to motors and sensors to control a car. And a client to control the car from a computer with an XBox controller.
 
+    A duo of crates with a core to control a `Blue Pill` (microcontroller) linked to motors and sensors to control a car. And a client to control the car from a computer with an XBox controller.
     I originally made this to explore the embedded side of Rust
 
 -   **discord-smp-link** (Stale) in _Rust_ [[GitHub](https://github.com/MrNossiom/discord-smp-link)]
+
     A Discord bot using `OAuth2` to connect your enterprise or education Google Account with your Discord account in a server. Giving the ability to check the identity of somebody and let them quickly enter your guild.
 
 -   **MeTomT** (Ended) in _TypeScript_
-    This was my first Discord bot with loads of commands that I started in JavaSript. I later moved to TypeScript. Then I pushed too far and I ended up creating a monstrous type system. Although the repo is on GitHub, it is in a poor state I don't want you to see :eyes:.
+
+    This was my first Discord bot with loads of commands that I started in JavaSript. I later moved to TypeScript. Then I pushed too far and I ended up creating a monstrous type system.
 
 ---
 
