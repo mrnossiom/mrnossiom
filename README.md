@@ -20,27 +20,32 @@ Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.
 
 ### Pinned projects
 
--   **git-leave** in _Rust_ [[GitHub](https://github.com/MrNossiom/git-leave)]
+-   **git-leave** in _Rust_ [[GitHub](https://github.com/mrnossiom/git-leave/)]
 
     Check for unsaved or uncommitted changes on your machine.
 
--   **pgpaste** (WIP) in _Rust_ [[GitHub](https://github.com/MrNossiom/pgpaste/)]
+-   **declarative-api** (WIP) in _Rust_ [[GitHub](https://github.com/mrnossiom/declarative-api/)]
+
+    A wannabe full toolchain for an OpenAPI replacement including a compiler with pluggable generators as output.
+
+-   **pgpaste** (WIP) in _Rust_ [[GitHub](https://github.com/mrnossiom/pgpaste/)]
 
     A set of tools (server, terminal client, library, and soon web client) to share text and media over the net like pastebin.com. The whole process uses OpenPGP to sign or encrypt your data. With features like expiration, burn after reading, link shortening, and more.
 
--   **embedded-car** (WIP) in _Rust_ [[GitHub](https://github.com/MrNossiom/embedded-car)]
+-   **embedded-car** (WIP) in _Rust_ [[GitHub](https://github.com/mrnossiom/embedded-car)]
 
     A duo of crates with a core to control a `Blue Pill` (microcontroller) linked to motors and sensors to control a car. And a client to control the car from a computer with an XBox controller.
     I originally made this to explore the embedded side of Rust
 
--   **discord-smp-link** (Stale) in _Rust_ [[GitHub](https://github.com/MrNossiom/discord-smp-link)]
+-   **discord-smp-link** (Stale) in _Rust_ [[GitHub](https://github.com/mrnossiom/discord-smp-link)]
 
     A Discord bot using `OAuth2` to connect your enterprise or education Google Account with your Discord account in a server. Giving the ability to check the identity of somebody and let them quickly enter your guild.
 
--   **MeTomT** (Ended) in _TypeScript_
+-   **MeTomT** (Terminated) in _TypeScript_
 
     This was my first Discord bot with loads of commands that I started in JavaSript. I later moved to TypeScript. Then I pushed too far and I ended up creating a monstrous type system.
 
 ---
 
-<img alt="Metrics" style="width:80%;" src="https://gist.github.com/MrNossiom/a6a60000aa7170b2ea668e138dabc107/raw/metrics.svg">
+
+<img alt="Metrics" style="width:80%;" src="https://gist.githubusercontent.com/MrNossiom/a6a60000aa7170b2ea668e138dabc107/raw/metrics.svg">
