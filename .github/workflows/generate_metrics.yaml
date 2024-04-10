@@ -18,7 +18,7 @@ jobs:
           output_action: gist
           committer_gist: a6a60000aa7170b2ea668e138dabc107
           filename: metrics.svg
-          config_order: notable, stars, stargazers, music, topics, people, sponsors
+          config_order: notable, stars, wakatime, discussions, stargazers, music, topics, people, sponsors
           config_timezone: Europe/Paris
 
           # Show stats on large projects I contributed to
@@ -36,6 +36,9 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 4
+
+          # Display discussion (issues, PRs)
+          plugin_discussions: true
 
           # Stargazers graph
           plugin_stargazers: true
