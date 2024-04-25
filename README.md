@@ -2,7 +2,7 @@
 
 ### Me [![GitHub follow button](https://img.shields.io/github/followers/MrNossiom?label=Follow&style=social)](https://github.com/MrNossiom) [![Twitter follow button](https://img.shields.io/twitter/follow/milomoisson)](https://twitter.com/milomoisson) [![Mastodon follow button](https://img.shields.io/mastodon/follow/109537015030439860?domain=https%3A%2F%2Ffosstodon.org)](https://elk.zone/fosstodon.org/@milomoisson) [![Discord join button](https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord)](https://discord.gg/GrbpRNza5j)
 
-I'm a seventeen years old French student that lives next to Paris. I started programming at ten with a wonderful book: _Javascript for kids_ (Eyrolles). I did a lot of web development, done a discord bot in JavaScript (that I later rewrote in TypeScript for type safety and more fun). I discovered Rust two years ago and think this is the most elegant system programming language we have until now.
+I'm a eighteen years old French student that lives next to Paris. I started programming at ten with a wonderful book: _Javascript for kids_ (Eyrolles). I did a lot of web development, done a discord bot in JavaScript (that I later rewrote in TypeScript for type safety and more fun). I discovered Rust two years ago and think this is the most elegant system programming language we have until now.
 
 I love Open Source :heart: and try to contribute as much as I can.
 
