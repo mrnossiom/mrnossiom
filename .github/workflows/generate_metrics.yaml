@@ -12,24 +12,21 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate code metrics
-        uses: lowlighter/metrics@v3.32
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
           committer_gist: a6a60000aa7170b2ea668e138dabc107
           filename: metrics.svg
-          config_order: notable, stars, wakatime, discussions, stargazers, music, topics, people, sponsors
+          config_order: notable, wakatime, stars, rss, leetcode, stargazers, music, people, sponsors
           config_timezone: Europe/Paris
 
           # Show stats on large projects I contributed to
           plugin_notable: true
+          plugin_notable_indepth: true
           plugin_notable_filter: stars:>500
           plugin_notable_repositories: true
           plugin_notable_from: all
-
-          # Shows latest starred repositories
-          plugin_stars: true
-          plugin_stars_limit: 3
 
           # WakaTime tracking
           plugin_wakatime: true
@@ -37,8 +34,21 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 4
 
-          # Display discussion (issues, PRs)
-          plugin_discussions: true
+          # Shows latest starred repositories
+          plugin_stars: true
+          plugin_stars_limit: 4
+
+          # TODO: enable
+          # Display 3 last entries of an RSS feed
+          plugin_rss: false
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 3
+
+          # TODO: enable
+          # LeetCode stats
+          plugin_leetcode: false
+          plugin_leetcode_user: milomoisson
+          plugin_leetcode_sections: solved, skills, recent
 
           # Stargazers graph
           plugin_stargazers: true
@@ -53,16 +63,12 @@ jobs:
           plugin_music_token: '${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}'
           plugin_music_played_at: true
 
-          # Display follow topics in GitHub
-          plugin_topics: true
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-
           # Display followers
           plugin_people: true
           plugin_people_types: sponsors, followers
           plugin_people_shuffle: true
 
-          # Display sponsors (hidden)
+          # TODO: enable
+          # Display sponsors
           plugin_sponsors: false
           plugin_sponsors_sections: goal, about
