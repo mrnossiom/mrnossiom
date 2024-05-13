@@ -67,4 +67,4 @@ Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.
 
 ---
 
-<img alt="Metrics" style="width:70%;" src="https://gist.githubusercontent.com/mrnossiom/a6a60000aa7170b2ea668e138dabc107/raw/metrics.svg">
+<img alt="Metrics" style="width:80%;" src="https://gist.githubusercontent.com/mrnossiom/a6a60000aa7170b2ea668e138dabc107/raw/metrics.svg">
