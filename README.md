@@ -1,12 +1,14 @@
-[![GitHub follow button](https://img.shields.io/github/followers/mrnossiom?label=Follow&style=social)](https://github.com/mrnossiom) [![Twitter follow button](https://img.shields.io/twitter/follow/milomoisson)](https://twitter.com/milomoisson) [![Mastodon follow button](https://img.shields.io/mastodon/follow/109537015030439860?domain=https%3A%2F%2Ffosstodon.org)](https://elk.zone/fosstodon.org/@milomoisson) [![Discord join button](https://img.shields.io/badge/Discord-Join-3178C6?style=social&logo=Discord)](https://discord.gg/GrbpRNza5j)
+[![GitHub follow badge](https://img.shields.io/github/followers/mrnossiom?label=Follow&style=social)](https://github.com/mrnossiom)
+[![Mastodon follow badge](https://img.shields.io/mastodon/follow/109537015030439860?domain=https%3A%2F%2Ffosstodon.org)](https://elk.zone/fosstodon.org/@milomoisson)
+[![Discord user badge](https://img.shields.io/badge/Discord-mrnossiom-3178C6?style=social&logo=Discord)](https://discord.com/users/414017710091927552)
+[![Email badge](https://img.shields.io/badge/Mail-milomoisson%40gmail.com-blue?style=social&logo=gmail)](mailto:milomoisson@gmail.com)
+
 
 Hi :wave:, I'm an eighteen years old French student.
 
 I started programming at ten with a wonderful book: _Javascript for kids_ (Eyrolles). I did a lot of web development, done a discord bot in JavaScript (that I later rewrote in TypeScript for type safety and more fun). Likewise, I discovered Rust in 2021, and I think this is the most elegant system programming language we had until now.
 
 I love Open Source :heart: and try to contribute as much as I can.
-
-Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.shields.io/badge/-Discord-FFF?style=flat-square&logo=Discord) (`@mrnossiom`)
 
 # Stack/Tools
 
