@@ -2,8 +2,6 @@
 
 Hi :wave:, I'm an eighteen years old French student.
 
----
-
 I started programming at ten with a wonderful book: _Javascript for kids_ (Eyrolles). I did a lot of web development, done a discord bot in JavaScript (that I later rewrote in TypeScript for type safety and more fun). Likewise, I discovered Rust in 2021, and I think this is the most elegant system programming language we had until now.
 
 I love Open Source :heart: and try to contribute as much as I can.
@@ -22,33 +20,29 @@ Contact me by [Mail](mailto:milomoisson@gmail.com) or by ![Discord](https://img.
 
 # Projects
 
-<!-- TODO: make them summaries? -->
-
-## Pinned
-
--   **git-leave** in _Rust_ [[GitHub](https://github.com/mrnossiom/git-leave/)]
+-   **git-leave** in _Rust_ [[GitHub](https://github.com/mrnossiom/git-leave)]
 
     > Check for unsaved or uncommitted changes on your machine
 
--   **label-logger** in _Rust_ [[GitHub](https://github.com/mrnossiom/label-logger/)]
+-   **label-logger** in _Rust_ [[GitHub](https://github.com/mrnossiom/label-logger)]
 
     > A Cargo-like logging library
 
--   **wakatime-lsp** in _Rust_ [[GitHub](https://github.com/mrnossiom/wakatime-lsp/)]
+-   **wakatime-ls** in _Rust_ [[GitHub](https://github.com/mrnossiom/wakatime-ls)]
 
-    > A dead-simple LSP around wakatime-cli to send code tracking heartbeats
+    > A dead-simple language server around wakatime-cli to send code tracking heartbeats
 
--   **dotfiles** in _Nix_ [[GitHub](https://github.com/mrnossiom/dotfiles/)]
+-   **dotfiles** in _Nix_ [[GitHub](https://github.com/mrnossiom/dotfiles)]
 
     Nix dotfiles containing my entire computer and home server configuration along with desktop configuration
 
 ## Stale
 
--   **declarative-api** in _Rust_ [[GitHub](https://github.com/mrnossiom/declarative-api/)]
+-   **declarative-api** in _Rust_ [[GitHub](https://github.com/mrnossiom/declarative-api)]
 
     > A wannabe full toolchain for an OpenAPI replacement including a compiler with pluggable generators as output
 
--   **pgpaste** in _Rust_ [[GitHub](https://github.com/mrnossiom/pgpaste/)]
+-   **pgpaste** in _Rust_ [[GitHub](https://github.com/mrnossiom/pgpaste)]
 
     A set of tools (server, terminal client, library, and soon web client) to share text and media over the net like pastebin.com. The whole process uses OpenPGP to sign or encrypt your data. With features like expiration, burn after reading, link shortening, and more.
 
