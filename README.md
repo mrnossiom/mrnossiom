@@ -1,8 +1,7 @@
 [![GitHub follow badge](https://img.shields.io/github/followers/mrnossiom?label=Follow&style=social)](https://github.com/mrnossiom)
 [![Mastodon follow badge](https://img.shields.io/mastodon/follow/109537015030439860?domain=https%3A%2F%2Ffosstodon.org)](https://elk.zone/fosstodon.org/@milomoisson)
 [![Discord user badge](https://img.shields.io/badge/Discord-mrnossiom-3178C6?style=social&logo=Discord)](https://discord.com/users/414017710091927552)
-[![Email badge](https://img.shields.io/badge/Mail-milomoisson%40gmail.com-blue?style=social&logo=gmail)](mailto:milomoisson@gmail.com)
-
+![Email badge](https://img.shields.io/badge/Mail-milo%40wiro.world-6D4AFF?style=social&logo=protonmail)
 
 Hi :wave:, I'm an eighteen years old French student.
 
