@@ -27,9 +27,8 @@ jobs:
           plugin_notable_repositories: true
           plugin_notable_from: all
 
-          # TODO: enable
           # Display 3 last entries of an RSS feed
-          plugin_rss: false
+          plugin_rss: true
           plugin_rss_source: https://wiro.world/atom.xml
           plugin_rss_limit: 3
 
